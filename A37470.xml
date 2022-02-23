@@ -1,0 +1,256 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Lord Delamere's letter to his tenants at Warrington, in Lancashire, answered by one of his lordship's tenants.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 31 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A37470</idno>
+            <idno type="STC">Wing D879</idno>
+            <idno type="STC">ESTC R12848</idno>
+            <idno type="EEBO-CITATION">12716029</idno>
+            <idno type="OCLC">ocm 12716029</idno>
+            <idno type="VID">66215</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A37470)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 66215)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 959:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Lord Delamere's letter to his tenants at Warrington, in Lancashire, answered by one of his lordship's tenants.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1688.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Bodleian Library.</note>
+                  <note>Caption title.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Warrington, Henry Booth, --  Earl of, 1652-1694.</term>
+               <term>Great Britain --  History --  Revolution of 1688.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="a_letter_answered">
+            <pb facs="tcp:66215:1"/>
+            <head>The Lord <hi>Delamere</hi>'s LETTER to his Tenants at <hi>War<g ref="char:EOLhyphen"/>rington,</hi> in <hi>Lancaſhire,</hi> Anſwered; By one of his Lordſhip's Tenants.</head>
+            <epigraph>
+               <q>
+                  <l>Haec adeo ex illo mihi jam ſperanda fuerunt</l>
+                  <l>Tempore, cum ferro Caleſtia Corpora demens</l>
+                  <l>Appetii.</l>
+                  <bibl>
+                     <hi>Virg. Aeneid. I. 11.</hi>
+                  </bibl>
+               </q>
+            </epigraph>
+            <floatingText type="letter">
+               <body>
+                  <head>To my very good Friends and Tenants.</head>
+                  <p>Letter <hi>THE occaſion of this is to give you my thoughts on the preſent juncture, which concerns not only you, but every Proteſtant and Free-born Man of</hi> England, <hi>I am confident, that wiſhes well to the Proteſtant Religion and his Country. And I alſo am perſwaded, that every Man of you think both in danger, and now to lie at ſtake. I alſo am perſwaded that every man of you will rejoyce to ſee Religion and Property ſettled; if then I am not miſtaken in my conjectures concerning you—</hi>
+                  </p>
+               </body>
+            </floatingText>
+            <p>
+               <hi>Anſwer</hi> My Lord, As I am one of your Tenants, ſo I hope I have not hitherto given your Lordſhip any juſt reaſon to complain, that I have neglected my Duty in <hi>that</hi> capacity. And ſeeing your Lordſhip is now pleaſed to treat me as a <hi>friend,</hi> ſo as to <hi>let me know what you are a doing;</hi> I preſume to take a little more than uſual freedom, but ſhall be careful to ſay nothing unworthy of <hi>that</hi> character: <hi>i. e.</hi> I intend to be very plain, and not to <hi>flatter</hi> nor <hi>provoke.</hi>
+            </p>
+            <p>I confeſs then, that I am a <hi>Proteſtant,</hi> not only, as that ſignifies at large <hi>no Papiſt,</hi> but a Member of the Reformed Church of <hi>England,</hi> as eſtabliſhed by Law. And that I am a <hi>Free-born Man of</hi> England, as that ſignifies one <hi>born a Subject to the King of</hi> England; I acknowledge that <hi>I wiſh well to the Proteſtant Religion and my Country,</hi> and that <hi>I think both at this Time in danger,</hi> both the Eſtabliſhed <hi>Religion,</hi> and the <hi>Kingdom</hi> of <hi>England;</hi> and that I ſhould <hi>rejoyce</hi> to ſee <hi>this Relegion</hi> and Property ſettled, <hi>i. e.</hi> ſo well fixed upon the old Foundation of our Laws, that they might (if poſſible) be for ever out of danger of being ſhaken. So that one would think your Lordſhip not miſtaken in your conjectures concerning <hi>me.</hi>
+            </p>
+            <p>And when your Lordſhip asks</p>
+            <floatingText type="letter">
+               <body>
+                  <p>Let. <hi>Can you ever hope for a better occaſion to</hi> root out Popery <hi>and</hi> Slavery, <hi>than by joyning with the Prince of</hi> Orange? <hi>whoſe Propoſals contain and ſpeak the deſires of every Man that loves his Religion and Liberty.</hi>
+                  </p>
+               </body>
+            </floatingText>
+            <p>
+               <hi>Anſw.</hi> If the P. of <hi>O.</hi> came <hi>only to make Propoſals</hi> for rooting out of <hi>Popery</hi> and <hi>Slavery,</hi> and thoſe ſuch as your Lordſhip ſays, I do own that I ſhould be like enough to <hi>join with</hi> him <hi>therein;</hi> for I am a hearty lover <hi>of my Religion</hi> and Liberty, would with all my heart <hi>put my hand</hi> to Propoſals or a <hi>Petition</hi> of that nature, if legally managed, and in any meaſure likely to take Effect: But becauſe I have not ſeen thoſe Propoſals, I muſt gueſs at the <hi>Methods propoſed</hi> for <hi>the rooting out of Popery,</hi> &amp;c. by your Lord<g ref="char:EOLhyphen"/>ſhip's Letter. And when I there read of <hi>Fighting;</hi> that the <hi>Nation</hi> is to be <hi>deliver'd by Force,</hi> and you hope <hi>this is the time for it</hi>—If <hi>the King prevail,</hi> if <hi>he gets the better;</hi> on the contrary, if <hi>we</hi> prevail, and I am <hi>willing to loſe my Life in the Cauſe,</hi> &amp;c. This makes it plain, That your Lordſhip (at leaſt) would have Popery, at this very time, rooted out, by <hi>Force of Arms;</hi> That when you would have me <hi>join with the</hi> Prince of <hi>O.</hi> you would <hi>have me fight againſt the King,</hi> and you would now have Horſes, Men and Mony for <hi>that</hi> purpoſe. But if I ſhould thus Equip my ſelf, and one of my Neighbours ſhould ask me, By <hi>what Authority doſt thou theſe things,</hi> and who <hi>gave thee this</hi> Authority? What could I ſay to him? Would not every body laugh at me, if I thought a Letter of my Lord <hi>D</hi>—'s to me not as <hi>his Tenant,</hi> but as <hi>his Friend,</hi> were a good Commiſſion for me to fight againſt my King? And they muſt of courſe, if per<g ref="char:EOLhyphen"/>mitted, urge your Lordſhip with the ſame Queſtions; or however conclude, becauſe 'tis not to be imagined, you ſhould have a Commiſſion from the <hi>King</hi> to raiſe Men againſt himſelf, That you have one from the Prince of <hi>O.</hi> Now though I do not call in queſtion his Authority in <hi>his own Country,</hi> nor ſo much condemn the <hi>Dutch-men</hi> that come with him, and fight by his Commiſſion. Yet ſhould <hi>any of us join with</hi> him in a War againſt our own <hi>moſt rightful</hi> King, this were never to be <hi>juſtified.</hi> Certainly <hi>this</hi> would be as ill a ſign that we are true <hi>Engliſh-men,</hi> as <hi>Diſobedience to our Parents,</hi> that we are Legiti<g ref="char:EOLhyphen"/>mate: Though we are <hi>Engliſh-men</hi> and <hi>Free-born,</hi> we are yet <hi>Free-born Subjects,</hi> and being born and bred in the Dominions, under the Government of the Kings of <hi>England,</hi> we do from our <hi>birth</hi> owe Duty and Allegiance to them: for which reaſon, <hi>Rebellion,</hi> as being againſt the Dictates and Obligations of <hi>Nature,</hi> is rightly called <hi>
+                  <g ref="char:V">Ʋ</g>n-natural,</hi> and 'twill deſerve a <hi>worſe</hi> name too, as being a violation <hi>of our Reli<g ref="char:EOLhyphen"/>gion</hi> and <hi>our Oaths.</hi>
+            </p>
+            <p>
+               <hi>For, Has not your Lordſhip more than once, Teſtified and Declared in your Conſcience, That the King's Ma<g ref="char:EOLhyphen"/>jeſty is the only Supream Governor of this Realm? and that no Foreign</hi> Prince, <hi>Perſon, Prelate, State or Potentate hath or ought to have any Juriſdiction, Power and Authority</hi> Eccleſiaſtical <hi>or</hi> Civil <hi>within this Realm? Did you not then ſwear</hi> from your heart, <hi>That you would bear Faith and true Allegiance to His Majeſty, His Heirs and Succeſſors, and Him and Them Defend to the uttermoſt of your Power againſt all Conſpiracies and Attempts whatſoever, made againſt His or Their Perſons, Crown and Dignity? Did you not then Declare, That no Perſon whatſoever hath power to abſolve you from theſe Oaths? That you made this acknowledgment without Equivocation,</hi> &amp;c. <hi>ſincerely, upon the</hi> Faith <hi>of a Chriſtian: So help you God,</hi> &amp;c.</p>
+            <pb facs="tcp:66215:2"/>
+            <p>O my Lord, will you now be pleaſed to lay <hi>your hand upon your heart,</hi> and conſider, whether you can join with the P. of <hi>O.</hi> againſt the King, without a manifeſt breach of theſe Oaths, without incurring the guilt of <hi>Perjury,</hi> and forfeiting all the Help and Bleſſing you might otherwiſe expect from God All<g ref="char:EOLhyphen"/>mighty? Will you be pleaſed to conſider <hi>Eccleſ.</hi> 8.2. I <hi>counſel thee to keep the King's</hi> Commandment, and that in <hi>regard of the Oath of God,</hi> and Dr. <hi>Patrick</hi>'s excellent <hi>Paraphraſe</hi> and <hi>Annotations</hi> thereupon. For my part I look upon Equivocations in, and Abſolutions from, Oaths; and, a belief, <hi>That a good Inten<g ref="char:EOLhyphen"/>tion will juſtifie evil</hi> Actions, as <hi>Jeſuitical</hi> Principles and Practices. And therefore cannot do what your Lordſhip now deſires me, though it were <hi>to root out Popery and Slavery,</hi> becauſe I may not <hi>do evil, that good may come;</hi> and of them that do ſo, the Apoſtle ſays, <hi>Rom.</hi> 3.8. <hi>Their damnation is juſt.</hi> And where<g ref="char:EOLhyphen"/>as your Lordſhip ſays,</p>
+            <floatingText type="letter">
+               <body>
+                  <p>Let. <hi>I will invite you to nothing but what I will do my ſelf, and I will not deſire any of you to go any further than I move my ſelf, neither will I put you upon any danger, where I will not take my ſhare in it.</hi>
+                  </p>
+               </body>
+            </floatingText>
+            <p>
+               <hi>Anſw.</hi> I grant that if the Enterpriſe were <hi>good,</hi> or not <hi>apparently unlawful,</hi> your example would be a great encouragement, eſpecially to your Tenants, to go along with you. But ſeeing St. <hi>Paul</hi> bid the <hi>Corinthi<g ref="char:EOLhyphen"/>ans</hi> (1 <hi>Epiſt.</hi> 11.1.) follow him, no farther <hi>than he followed Chriſt,</hi> and ſeeing St. <hi>Peter</hi> (1 <hi>Epiſt.</hi> 2.) has propoſed <hi>Chriſt,</hi> as an Example of <hi>Submiſſion to the King</hi> as <hi>Supream,</hi> and to Governors <hi>ſen<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> by</hi> him. And, for an example <hi>of Patience</hi> in <hi>ſuffering for well doing;</hi> did your Lordſhip now follow <hi>this</hi> example, I would moſt readily have followed your Lordſhip: But when you <hi>Arm againſt the King,</hi> and would have us to follow you, I cannot but reflect upon that <hi>Command of God, Thou ſhalt not follow a multitude to do evil:</hi> and being told by St. <hi>Paul,</hi> That <hi>they who reſiſt, ſhall receive to themſelves damnation;</hi> I muſt beg your excuſe, if I am not willing to <hi>go to the Devil,</hi> though I ſhould be ſure of your Lordſhip's Company.</p>
+            <floatingText type="letter">
+               <body>
+                  <p>Let. <hi>I propoſe this to you not as you are my Tenants, but as my</hi> Friends, <hi>and as you are</hi> Engliſh-men; <hi>No Man can love Fighting for its own ſake, nor find any pleaſure in Danger; And you may imagine I would be very glad to ſpend the reſt of my days in Peace, I having had ſo great a ſhare of Troubles. But I ſee</hi> All lies at ſtake, <hi>I am to chuſe whether I will be a Slave and a Papiſt, or a Proteſtant and a Freeman: and the caſe being thus, I ſhould think my ſelf</hi> falſe to my Country, <hi>if I</hi> ſate ſtill <hi>at this time.</hi>
+                  </p>
+               </body>
+            </floatingText>
+            <p>
+               <hi>Anſw.</hi> As for <hi>Engliſh-men</hi> and <hi>Freemen,</hi> I have ſaid ſomewhat already, and of <hi>Fighting for its own ſake,</hi> I might have thought as your Lordſhip does, if when things began to mend, and we had ſome hopes of Peace and Settlement, you had not been <hi>making ready for the Battle;</hi> And if now <hi>your All lies at ſtake,</hi> 'tis for ought I ſee of your own <hi>Setting,</hi> but you <hi>are to chuſe</hi> whether <hi>you will be a Slave and a Papiſt,</hi> or a <hi>Pro<g ref="char:EOLhyphen"/>teſtant and a Freeman.</hi> And what greater Freedom can a Man deſire, than the Liberty of chuſing what he will be? one would think, by this, there were little danger of our being over-run with <hi>Popery and Slavery,</hi> when every Man is left to his own choice, whether he will be a Papiſt or Proteſtant, a Slave or Free<g ref="char:EOLhyphen"/>man; but perhaps I miſtake your Lordſhip's meaning, becauſe you ſay, <hi>You ſhould be falſe to your Coun<g ref="char:EOLhyphen"/>try if you ſate ſtill:</hi> But then I pray, my Lord, once more conſider, whether you can be True to God, and to the King, to your Oaths, and your own Conſcience, while you <hi>Stir</hi> ſo much againſt <hi>him</hi> whom you are Sworn to <hi>Aſſiſt according to your power,</hi> againſt all <hi>Conſpiracies;</hi> and whether you do not reproach your Country by this inſinuation.</p>
+            <floatingText type="letter">
+               <body>
+                  <p>Let. <hi>I am of Opinion, That when the Nation is Delivered, it muſt be by</hi> Force <hi>or by</hi> Miracle: <hi>it would be too great a preſumption to expect the</hi> latter, <hi>becauſe God Almighty, in the Method of his Providence, works by Second Cauſes; and therefore our deliverance muſt be by Force, and I hope this is the time for it.</hi>
+                  </p>
+               </body>
+            </floatingText>
+            <p>
+               <hi>Anſw.</hi> I ſhall not here Diſpute your Lordſhip's notion of a <hi>Miracle,</hi> becauſe that would be a digreſſi<g ref="char:EOLhyphen"/>on, but crave leave to mind your Lordſhip that <hi>Second Cauſes</hi> and <hi>Force</hi> do not always ſignifie the ſame thing; And that God Almighty, who, (as your Lordſhip very well obſerves) in the <hi>Method</hi> of his Pro<g ref="char:EOLhyphen"/>vidence, <hi>works by Second Cauſes,</hi> does very often make uſe of wicked Men, and their <hi>wicked Actions,</hi> as the Second Cauſes he works by. (Bringing good out of evil) As (not to trouble you with many in<g ref="char:EOLhyphen"/>ſtances) ſhould your Lordſhip and your Confederates ſuccede in this attempt, <hi>do</hi> the very thing, and by the means you ſpeak of, what would you contribute <hi>more</hi> to the <hi>delivering of the Nation,</hi> than <hi>Herod</hi> and <hi>Pontius Pilate</hi> did to the <hi>ſaving of the World. They</hi> were a ſort of <hi>Second Cauſes</hi> (inſtruments of the <hi>One,</hi> as you pretend to be of the <hi>Other</hi>) and by ſhedding of Blood, both: nor may <hi>you</hi> expect more Statues from Poſterity, than <hi>they</hi> have had from our fore-Fathers.</p>
+            <p>But why, my Lord, ſo poſitive. Therefore it <hi>muſt</hi> be <hi>by Force?</hi> I ſee no reaſon, but becauſe 'tis your Lordſhip's Opinion; Is there no <hi>medium</hi> between Miracle and Force? No room for Counſels, Treaties, Parliaments? And is Force <hi>All</hi> that you meant by the PROPOSALS of the P. of <hi>O?</hi> Then I verily believe <hi>they</hi> are not ſuch as <hi>ſpeak the deſires of every Man that loves his Religion and Country</hi>—If this Ar<g ref="char:EOLhyphen"/>gument for <hi>Force</hi> were good, I wonder the <hi>New Teſtament</hi> ſhould ſay ſo <hi>much</hi> againſt the <hi>uſe</hi> of <hi>it,</hi> and ſo <hi>little</hi> to bid us look for <hi>Miracles.</hi> And I wonder more that the Chriſtians of the following Ages, did not make uſe of it, when 'twas in the power of their hands to do ſo, and they had as much <hi>need</hi> of, did as much <hi>deſire</hi> a deliverance, as we at <hi>this</hi> time can— If your Lordſhip pleaſe (at your leiſure) to read the 24. and 26. Chapters of 1 <hi>Samuel,</hi> I am almoſt confident you will be convinced, that there are <hi>other</hi> ways even for <hi>our</hi> Deliverance, than thoſe you name; and that <hi>this of Force</hi> is moſt unlawful in the preſent Caſe, when you have conſidered <hi>that</hi> of <hi>David,</hi> with all its circumſtances; <hi>Who can ſtretch forth his hand againſt the Lord's Anointed, and be guiltleſs?</hi> But what if God does not <hi>yet</hi> ſee good to <hi>deliver this Nation from Popery?</hi> What if he has determined to <hi>prove</hi> us a little longer therewith? What would this your <hi>Force</hi> then be, but on <hi>that</hi> account (as well as ſome others) a Fighting againſt God? A Reſiſting the <hi>Will</hi> and <hi>Providence,</hi> and <hi>Ordinance of God.</hi> However, to ſpeak of <hi>Force,</hi> or a <hi>deliverance</hi> by Force, and then ſay, <hi>I hope this is the time for it,</hi> does not, my Lord, look, as if you were <hi>yet weary of Troubles,</hi> and ſhould be <hi>very glad to ſpend the reſt of your days in Peace;</hi> no nor what follows:</p>
+            <floatingText type="letter">
+               <body>
+                  <pb facs="tcp:66215:2"/>
+                  <p>Let. <hi>A</hi> Price is now put into our hands, <hi>and if it miſcarry, for want of Aſſiſtance, our</hi> Blood is upon our own heads. <hi>And he that is</hi> Paſſive <hi>at this time, may very well expect, that</hi> God will mock <hi>when the fear of that comes upon him, which he thought to avoid by being indifferent.</hi>
+                  </p>
+               </body>
+            </floatingText>
+            <p>
+               <hi>Anſ.</hi> Meeting here with ſome Scripture language, I took my Bible to find the places, and (to ſee the luck on't) I there light on Such ſentences, Admonitions, <hi>&amp;c.</hi> as muſt for ever render this your Letter ineffectual to all that will conſider them, unleſs any ſhould doubt, whether <hi>your Lordſhip or Solomon</hi> were the wiſer Man. — That of a <hi>price put into your hands</hi> is in Prov. 17.16. but (to ſay nothing of the re<g ref="char:EOLhyphen"/>flecting Quaere there) as I was reading the verſes a little before, I could not but ſet a mark on v. 11. An <hi>Evil Man ſceketh only Rebellion, therefore a cruel Meſſenger ſhall be ſent after him.</hi>—God <hi>will mock when their fear comes,</hi> is in Prov. 1. and in reading that whole Chapter, I could not but look on a conſidera<g ref="char:EOLhyphen"/>ble part of it, as moſt earneſtly diſſuading me, from what your Lordſhip would perſuade us to, eſpe<g ref="char:EOLhyphen"/>cially from <hi>v.</hi> 10. — <hi>My Son, if Sinners</hi> (and your Lordſhip ſo converſant with the Holy Scriptures, cannot but remember who be there called <hi>Sinners againſt their own Souls,</hi> as being greater ſinners than other Men. If ſuch Sinners) <hi>entice thee, conſent thou not,</hi> if they ſay come, let us <hi>lay wait for Blood,</hi> we ſhall find all <hi>precious ſubſtance, we ſhall fill our houſes with ſpoil, caſt in thy lot among us, let us all have one purſe,</hi> i. e. according to a modern paraphraſe, if they ſay we <hi>will ſee thee recompens'd</hi> as <hi>well as our ſelves.</hi> Yet, ſays <hi>Solomon.</hi> My Son, walk <hi>not thou in the way with them, retain thy foot from their path, for their feet run</hi> to evil, they make haſt to ſhed blood, and they lay wait <hi>for their own blood.</hi> This laſt comes near your other phraſe too, but if you took <hi>that</hi> from 2 <hi>Sam.</hi> 1.16. or from <hi>Acts.</hi> 18.6. it nevertheleſs makes againſt you. For 'twas to the Jews that <hi>oppoſed</hi> themſelves (as they were an unquiet and diſobedient people to all their Governours) that S. <hi>Paul</hi> for that very reaſon in the one place, ſaid, Your <hi>blood be upon your own heads;</hi> And to whom <hi>David</hi> in the other had ſaid, How <hi>waſt thou not</hi> afraid to <hi>ſtretch forth thine hand to deſtroy the Lord's Anointed;</hi> he ſaid alſo, <hi>Thy blood be upon thy head.</hi> And had I gone along with your Lordſhip, to <hi>deliver by force;</hi> i. e. in this caſe by <hi>Rebellion,</hi> I could not but fear, that I ſhould bring the blood of <hi>others</hi> alſo upon <hi>me</hi> and upon <hi>my Children.</hi>—Having thus taken off the varniſh, and ſhew'd theſe ſcripture-phraſes, to be moſt unluckily pick'd up, and grievouſly miſapplied, 'twill be the eaſier to ſee, that the <hi>Things</hi> they were deſign'd to cover, are moſt <hi>ungodly</hi> and <hi>unchriſtian.</hi> — For what's the firſt part of this paragraph, (pardon the compariſon, for I ſpeak to the <hi>Thing,</hi> without <hi>reſpect to perſons</hi>) but what a High-way Robber would ſay to his Comrades, Look ye, here's a good booty, and we have a fair opportunity, let's be true to, and aſſiſt one another: for if we be taken, we ſhall be hang'd for'c? And how (in the name of God,) can your Lordſhip ſay—<hi>He that is paſſive may</hi> very <hi>well expect, that God will mock</hi> at him; when St. <hi>Peter</hi> ſays (1. <hi>Ep.</hi>) if ye do <hi>well</hi> and <hi>ſuffer for it,</hi> and <hi>take it patiently;</hi> this is <hi>ac<g ref="char:EOLhyphen"/>ceptable with God.</hi> And rejoyce in as much as ye are <hi>partakers of Chriſts ſufferings,</hi> and if ye are <hi>reproached</hi> for <hi>the name of Chriſt</hi> (nicknam'd <hi>paſſive, &amp;c.</hi> for following his doctrine and example) <hi>happy are</hi> ye, for the <hi>Spirit of Glory and of God reſteth upon you.</hi> I beſeech your Lordſhip to conſider theſe and the like Scriptures, and ſhall then hope, you will retract this impious and raſh period; which tho' it may imply ſome threatning too, for my part I cannot <hi>fear</hi> it while I have the word of God for my protection.</p>
+            <floatingText type="letter">
+               <body>
+                  <p>Let. <hi>If</hi> the King <hi>prevail, farewel Liberty of Conſcience, which has been hitherto allow'd, not for the ſake of the Pro<g ref="char:EOLhyphen"/>teſtants, but in order to ſettle</hi> Popery, <hi>you may ſee what to expect</hi> if He gets the better; <hi>and he hath lately given you of this Town</hi> a Taſte of <hi>the method whereby he will maintain his Army, and you may ſee of what ſort of people he intends his Army to conſiſt.</hi>
+                  </p>
+               </body>
+            </floatingText>
+            <p>
+               <hi>Anſ.</hi> I know not what to reckon This, My Lord, but an open declaring War againſt the King; and therefore 'tis the leſs wonder you ſhould <hi>ſpeak ſo much evil of the ruler of the People,</hi> and take occaſion from the Quartering of a few Soldiers in their March, <hi>to ſlander the footſteps of God's Anointed.</hi> What you ſay of the deſign in allowing Liberty of Conſcience, is a ſhrewd Reflection upon the Addreſſers that were ſo fond of it, and I leave it to be anſwer'd by <hi>them.</hi>
+            </p>
+            <p>And ſeeing you ſpeak of the <hi>Method of maintaining Armies,</hi> I cannot but call to mind what happen'd when I was young, and how the old <hi>Parliament Forces</hi> were maintain'd; We were then <hi>undone</hi> by an Army, that was rais'd <hi>to ſave Charges.</hi> And they who came to <hi>eaſe us of our burthens,</hi> quite <hi>broke our backs;</hi> Our State-Phyſicians made us then believe we were dangerouſly ſick, but preſcrib'd <hi>ſuch Remedies</hi> (the Taſte of which comes now freſh in my mouth) as every body found to be worſe than <hi>the diſeaſe,</hi> and I have no great heart to try the experiment a ſecond time.</p>
+            <floatingText type="letter">
+               <body>
+                  <p>Let. <hi>And if you have not a mind to ſerve ſuch Maſters, and ſtand by and ſee your Countrimen periſh, when they are endeavouring to defend you: I promiſe this upon my</hi> word and Honour <hi>to every Tenant that goes along with me, That if he fall, I will make his Leaſe as good to his Family as it was when he went from home.</hi>
+                  </p>
+               </body>
+            </floatingText>
+            <p>
+               <hi>Anſ.</hi> The beginning here is juſt the old way of talk, and 'tis ſufficient anſwer to ſay, We have been once already moſt ſhamefully cheated by it: The reſt is ſomewhat new, and therefore the fitter to be conſider'd — You <hi>promiſe</hi> upon your <hi>word and Honour, &amp;c.</hi> I pray, My Lord, bethink your ſelf, from <hi>whom</hi> and <hi>for what</hi> you had this <hi>Honour.</hi> I remember when Mr. <hi>C</hi>—preach'd at my good Lord, your Father's Funeral he recited a clauſe in his Patent for a Baron, which told us, that <hi>the King gave it him</hi> for <hi>his Loyalty,</hi> and the <hi>Service he</hi> had done in <hi>Cheſhire,</hi> &amp;c. And I have heard, Your Lordſhip repeated the ſame at your Trial in <hi>Weſtminſter Hall,</hi> brought it for Evidence that you could not be guilty of the Treaſon, you were then accuſed of, becauſe your Father <hi>had been Loyal,</hi> and had receiv'd <hi>that</hi> mark of his Majeſty's favour; your Father then had his <hi>Honour from the King,</hi> and <hi>for his Loyalty to the</hi> King, and while you inherit <hi>the One,</hi> 'tis reaſonable to expect you ſhould the <hi>other</hi> alſo; but how odly would this your Letter hang, if tack'd to that Patent? And the World can never look upon it, but as moſt baſe and ungrateful, when they ſee <hi>that Honour</hi> which was given the <hi>Father</hi> for his ſervice to the Crown, <hi>pawn'd by</hi> the <hi>Son</hi> to take up Money and raiſe <hi>Men againſt the King.</hi>—Nor is any thing more ready to be objected to this your promiſe, even by ordinary people, than, —How can we truſt to his word and
+<pb facs="tcp:66215:3"/>Honour, who is ſo unfaithful to the King, altho' he had confirm'd his word to him, with <hi>an Oath of Elde<g ref="char:EOLhyphen"/>lity?</hi> as alſo what will this promiſe of <hi>Leaſing</hi> ſignifie, if my Lord himſelf ſhould fall? and he has at the ſame time promis'd to be <hi>in as much danger as any of us.</hi> — I remember a Story of one (that had not all the wit in the World) who being ſick, and horribly afraid of dying, his friends thoughts to comfort him by ſaying, <hi>When you are dead, ſix tall handſome Men ſhall carry you to the Church.</hi> Ay (ſaid he) That would be very fine, but I had rather a great deal <hi>go thither my ſelf.</hi> — And ſhould not I be worſe than an Ideot, if I ſhould venture <hi>my life,</hi> and Soul too, upon the uncertain hopes, that <hi>when I fall,</hi> another (I know not who) ſhall come into my room?</p>
+            <floatingText type="letter">
+               <body>
+                  <p>Let. <hi>The thing then which I deſire, and your Country does expect from you is this, That every Man that has a tolerable Horſe or can procure one will meet me on</hi> Bowden Downs <hi>to morrow, where I Rendeſvouſe: but if any of you is render'd unable by reaſon of Age or any other juſt excuſe, then that he will mount a fitter perſon, and put</hi> 5 <hi>l. in his pocket. Thoſe that have not, nor cannot procure Horſes, let them ſtay at home, and aſſiſt with their pu<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſer, and ſend it to me with a particular of every Man's</hi> contribution.</p>
+               </body>
+            </floatingText>
+            <p>
+               <hi>Anſ.</hi> My Lord, I ſhould (as I ſaid before) be ready to aſſiſt your Lordſhip upon <hi>any good</hi> and <hi>warran<g ref="char:EOLhyphen"/>table</hi> occaſion, with my perſon and my purſe (tho' by the <hi>bye</hi> I aſſure your Lordſhip, that a Horſe and 5 l. will come to a great deal more, than the Kings ſouldiers coſt me, or than his Majeſty has had of me <hi>any otherways,</hi> of ſome years) but I have ſaid enough (I hope) to have you pardon <hi>me in this thing.</hi> And becauſe your Rendesvouſe and March was to be ſo ſoon after your Letter came, that I had not time to write ſo long an anſwer, I'll take care that this be left with a Friend, who (I hope) will ſend it to your Lordſhip, and have me excus'd.</p>
+            <floatingText type="letter">
+               <body>
+                  <p>Let. <hi>I impoſe upon no Man, but let</hi> him lay his hand on his heart and conſider <hi>what he is willing to give, to re<g ref="char:EOLhyphen"/>cover his Religion and Liberty; and to ſuch I promiſe and to all that go along with me, that</hi> if We prevail, <hi>I will be</hi> as induſtrious <hi>to have him recompens'd for his charge and hazard, as</hi> I will be to ſeek it for my ſelf.</p>
+               </body>
+            </floatingText>
+            <p>
+               <hi>Anſ.</hi> Here we have but a <hi>bare promiſe,</hi> and not one jot of <hi>Honour</hi> to ſupport it; indeed <hi>That</hi> was wiſely enough left out, when the thing is ſo extreamly mean and ungenerous, when the <hi>perſonated Hero</hi> declares himſelf a <hi>Souldier of Fortune,</hi> and the famed Patriot becomes a profeſſ'd <hi>Self-ſeeker.</hi> One would have thought ſo glorious an expedition for the <hi>Deliverance of our Nation,</hi> for the <hi>recovery of Religion,</hi> and <hi>Liberty,</hi> would have <hi>pretended</hi> at leaſt to ſo much of vertue, as to <hi>be its own reward,</hi> but to talk of further <hi>Recompence,</hi> and be <hi>induſtrious to ſeek</hi> it, is a ſhrewd intimation that the <hi>publick good</hi> is to be reſolv'd at laſt into <hi>private intereſt,</hi> that this undertaking is nothing elſe, but the <hi>Carolina-Affair</hi> revers'd; A <hi>conſpiracy</hi> for the <hi>ſake of Trade.</hi> And when a few Interlopers have gotten it into their own hands, experience may make us fear what rates they will ſet; The <hi>Cry</hi> is like to be the ſame ſtill, What <hi>will you give for Religion and Liberty?</hi> And who can tell what will <hi>ſatisfie</hi> the Daughters <hi>of the Horſe Leach?</hi> to be ſure, they that buy <hi>dear,</hi> will never ſell <hi>cheap.</hi> —He that heretofore by this very Artifice, took up ſo much mony and Plate (till it came to Thimbles and Bodkins) on the credit of the <hi>publick Faith,</hi> did certainly, for all that, <hi>impoſe</hi> upon <hi>his</hi> cuſtomers: and is there not as great a hazard, when we have but a <hi>Single promiſe?</hi> whether, Let <hi>them aſſiſt with their purſes,</hi> and <hi>ſend me every Mans contribution,</hi> when ſaid by a Lord to his Tenants, be not a kind of Impoſition, I leave the Criticks to determine. But becauſe you ſay ſo gravely, Let <hi>him lay his hand on his heart,</hi> and <hi>conſider.</hi> — Let me mind your Lordſhip of a Remark of Arch-Biſhop <hi>
+                  <g ref="char:V">Ʋ</g>ſher</hi> on 1. <hi>Sam.</hi> 10.26. (<hi>Power of the Prince</hi> &amp;c. p. 126.)</p>
+            <p>Surely if they who <hi>went with their King,</hi> had their hearts <hi>touched</hi> by God, ſuch as bend their endeavours <hi>another</hi> way ſhould do well to <hi>lay their hand upon their heart</hi> and <hi>conſider</hi> with <hi>fear and trembling,</hi> whether they find not there <hi>ſome Touch</hi> of <hi>that Spirit which worketh in the Children of Diſobedience.</hi>
+            </p>
+            <floatingText type="letter">
+               <body>
+                  <p>Let. <hi>This Advice I give to all that ſtay behind, that when you hear the Papiſts have</hi> commited any Outrage, <hi>or are Riſing; That you</hi> will get together; <hi>for tis better to meet your danger, than expect it.</hi>
+                  </p>
+               </body>
+            </floatingText>
+            <p>
+               <hi>Anſ.</hi> What's the meaning of the <hi>Papiſts committing any Outrage,</hi> and others <hi>getting together</hi> thereupon, I dare not ſay, becauſe your Lordſhip does not: but to adviſe common people thus, does look very like bidding them be ready for Riots and Inſurrections, and that upon any flying ſtory, and however, falſe report.</p>
+            <floatingText type="letter">
+               <body>
+                  <p>Let. <hi>I have no more to ſay, but that I am willing to loſe my life in the Cauſe, if God ſee good: for I never was un<g ref="char:EOLhyphen"/>willing to dye for my Religion and Country.</hi>
+                  </p>
+                  <closer>
+                     <signed>So I reſt your Loving Friend <hi>DELAMERE.</hi>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>
+               <hi>Anſ.</hi> I pray God, your Lordſhip may <hi>not die in this cauſe,</hi> leſt then <hi>you periſh in the gainſaying of</hi> Core: for I am fully perſuaded, The cauſe, tho' it be <hi>Old,</hi> is not <hi>good</hi> enough to <hi>make a Martyr.</hi> I pray that you may live, to repent of your engaging in it; and return to your duty to the King, and to the Church of <hi>England,</hi> That you may conſult and promote the Credit, and true intereſt of the eſtabliſh'd Reli<g ref="char:EOLhyphen"/>gion and your Country — I pray God to forgive all our Enemies, Perſecutors and Slanderers, and to turn their hearts: And from Battle and Murder and ſudden Death, from all Sedition, Privy Conſpiracy and Rebellion, from all falſe Doctrine, Hereſie, and Schiſm, from <hi>hardneſs of heart,</hi> and <hi>contempt</hi> of thy <hi>word</hi> and <hi>Commandments;</hi>
+            </p>
+            <closer>
+               <hi>Good Lord, deliver us.</hi> My Lord, if I have any where been more bold than becomes a <hi>Tenant;</hi> I hope the <hi>Friend</hi> will anſwer for it, and that upon the whole matter I have ſaid nothing unbecoming a <hi>Genuine</hi> Son of the Church of <hi>England,</hi> and 
+<signed>your Lordſhip's, moſt humble Servant, <hi>&amp;c.</hi>
+               </signed>
+               <dateline>Warrington. <date>
+                     <hi>Nov.</hi> 20. 1688.</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
